@@ -8,4 +8,4 @@ This file is used to use additional code examples for TRAVEO™ T2G, and contain
 This manifest is used by the ModusToolbox software. There is no reason to use this file directly.
 
 ---
-© Cypress Semiconductor Corporation, 2019-2020.
+© Cypress Semiconductor Corporation, 2019-2024.
